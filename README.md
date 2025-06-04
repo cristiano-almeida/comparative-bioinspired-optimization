@@ -1,5 +1,3 @@
----
-
 ## 🌀 Otimização de Mola de Tensão/Compressão
 
 ### Uma análise comparativa entre Estratégias Evolutivas e Meta-heurísticas Bioinspiradas
