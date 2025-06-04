@@ -1,0 +1,1 @@
+Pasta para gravação dos resultados do script.
