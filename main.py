@@ -9,9 +9,9 @@ from mpl_toolkits.mplot3d import Axes3D
 class EnhancedSpringOptimizer:
     def __init__(self):
         # Configurações de otimização
-        self.max_epoch = 800  # Balanceamento entre tempo e qualidade
-        self.pop_size = 120
-        self.n_runs = 5  # Número de execuções por estratégia
+        self.max_epoch = 1000  # Balanceamento entre tempo e qualidade
+        self.pop_size = 150
+        self.n_runs = 10  # Número de execuções por estratégia
         
         # Referência do artigo (Harris Hawks Optimization)
         self.hho_ref = {
