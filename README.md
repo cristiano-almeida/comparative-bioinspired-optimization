@@ -12,7 +12,7 @@ Este repositório apresenta a **demonstração funcional** do artigo:
 Este estudo compara a aplicação de **Estratégias Evolutivas (ES)** com o algoritmo **Harris Hawks Optimization (HHO)** na otimização de uma mola de tensão/compressão com restrições. Foram testadas cinco estratégias de penalização (fixa, progressiva, híbrida, violação máxima e sem penalização) usando a biblioteca **MEALPY**.
 
 📌 **Melhor desempenho com ES:**
-Peso mínimo = **0,0127338 kg** (violação máxima)
+Peso mínimo = **0,012722 kg** (penalização progressiva)
 📌 **Melhor resultado geral (literatura):**
 HHO = **0,012665443 kg**
 
